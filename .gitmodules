@@ -1,3 +1,0 @@
-[submodule "thirdy_party/FakeIt"]
-	path = thirdy_party/FakeIt
-	url = https://github.com/eranpeer/FakeIt.git

@@ -3,6 +3,5 @@ project('yascos', 'cpp',
    license : 'MIT')
 add_global_arguments('-Werror',
                      '-Wall',
+                     '-Wextra'
                      language : 'cpp')
-subdir('src')
-subdir('test')
